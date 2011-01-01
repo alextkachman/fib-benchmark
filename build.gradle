@@ -18,5 +18,4 @@ sourceSets.main.compileClasspath += files('./FibPpp/build/classes/main')
 task run(type:JavaExec, dependsOn:'classes') {
     main = 'Test'
     classpath =  sourceSets.main.runtimeClasspath + files('./FibPpp/build/classes/main')
-    println classpath.asPath
 }
