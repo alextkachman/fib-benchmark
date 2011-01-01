@@ -1,0 +1,22 @@
+apply plugin: 'groovy'
+apply plugin: 'idea'
+
+dependsOn(':FibPpp')
+
+group = 'org.mbte.groovypp'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    groovy group: 'org.codehaus.groovy', name: 'groovy-all', version:'1.8.0-beta-3'
+}
+
+sourceSets.main.compileClasspath += files('./FibPpp/build/classes/main')
+
+task run(type:JavaExec, dependsOn:'classes') {
+    main = 'Test'
+    classpath =  sourceSets.main.runtimeClasspath + files('./FibPpp/build/classes/main')
+    println classpath.asPath
+}
