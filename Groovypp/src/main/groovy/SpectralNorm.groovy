@@ -24,7 +24,7 @@ class SpectralNorm {
 		println formatter.format(spectralnormGame(n))
 
 		def total = System.currentTimeMillis() - millis
-		println "[SpectralNorm-Groovy Benchmark Result: $total]"
+		println "[SpectralNorm-Groovy++ Benchmark Result: $total]"
 	}
 
 
