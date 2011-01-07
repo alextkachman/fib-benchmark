@@ -1,21 +1,32 @@
 apply plugin: 'groovy'
 apply plugin: 'idea'
 
-dependsOn(':FibPpp')
+def sub = [':Java', ':Groovy', ':Groovypp']
 
-group = 'org.mbte.groovypp'
+def bench = ['Fib']
 
-repositories {
-    mavenCentral()
+for(p in sub) {
+    dependsOn p
 }
 
-dependencies {
-    groovy group: 'org.codehaus.groovy', name: 'groovy-all', version:'1.8.0-beta-3'
+subprojects {
+    for(b in bench) {
+        task "$b"(type:JavaExec, dependsOn:'classes') {
+            main = b
+            classpath =  sourceSets.main.runtimeClasspath
+        }
+    }
 }
 
-sourceSets.main.compileClasspath += files('./FibPpp/build/classes/main')
+def allDep = []
+for(b in bench) {
+    def dep = []
+    for(s in sub)
+        dep << "$s:$b"
 
-task run(type:JavaExec, dependsOn:'classes') {
-    main = 'Test'
-    classpath =  sourceSets.main.runtimeClasspath + files('./FibPpp/build/classes/main')
+    task "$b"(dependsOn:dep)
+
+    allDep << b
 }
+
+task all(dependsOn: allDep)
