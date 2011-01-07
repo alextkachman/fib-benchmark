@@ -1,4 +1,4 @@
-Micro benchmark to compare Fibbonachi calculation by Java/Groovy/Groovy++
+Set of benchmarks to compare same algorithms implemented by Java/Groovy/Groovy++
 
-To run execute './gradlew run' from command shell
+To run execute './gradlew all' from command shell
 

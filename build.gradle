@@ -3,7 +3,7 @@ apply plugin: 'idea'
 
 def sub = [':Java', ':Groovy', ':Groovypp']
 
-def bench = ['Fib']
+def bench = ['Fib', 'BinaryTrees']
 
 for(p in sub) {
     dependsOn p
@@ -14,6 +14,7 @@ subprojects {
         task "$b"(type:JavaExec, dependsOn:'classes') {
             main = b
             classpath =  sourceSets.main.runtimeClasspath
+            jvmArgs = ["-server",  "-Xmx512m"]
         }
     }
 }
