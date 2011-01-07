@@ -3,7 +3,7 @@ apply plugin: 'idea'
 
 def sub = [':Java', ':Groovy', ':Groovypp']
 
-def bench = ['Fib', 'BinaryTrees']
+def bench = ['Fib', 'BinaryTrees', 'ThreadRing']
 
 for(p in sub) {
     dependsOn p
