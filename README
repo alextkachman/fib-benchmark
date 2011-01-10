@@ -33,3 +33,10 @@ http://shootout.alioth.debian.org/u32/performance.php?test=threadring
 
 Creates and keep alive 503 pre-emptive threads, linked in a ring,
 and pass a token between one thread and the next thread 5000000 times.
+
+6) PiDigits
+
+Borrowed from Language Shootout Game
+http://shootout.alioth.debian.org/u32/performance.php?test=pidigits
+
+Use the same step-by-step spigot algorithm to calculate digits of Pi
