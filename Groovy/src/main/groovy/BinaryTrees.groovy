@@ -22,7 +22,7 @@ class BinaryTrees {
 		System.out.println("long lived tree of depth $maxDepth\t check: ${longLivedTree.itemCheck()}")
 
         long total = System.currentTimeMillis() - millis;
-		println ("[Binary Trees-Groovy Benchmark Result: " + total + "]");
+        System.out.println("[Binary Trees-" + System.getProperty("project.name")+ " Benchmark Result: " + total + "]");
 	}
 
     private static class TreeNode

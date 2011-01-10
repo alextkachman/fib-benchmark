@@ -23,7 +23,7 @@ class SpectralNorm {
 		println formatter.format(spectralnormGame(n))
 
 		def total = System.currentTimeMillis() - millis
-		println "[SpectralNorm-Groovy Benchmark Result: $total]"
+        System.out.println("[SpectralNorm-" + System.getProperty("project.name")+ " Benchmark Result: " + total + "]");
 	}
 
 

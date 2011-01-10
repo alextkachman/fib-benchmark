@@ -45,6 +45,6 @@ public class Quicksort {
         quicksort(a);
 
         long total = System.currentTimeMillis() - start;
-        System.out.println("[Quicksort-Java Benchmark Result: " + total + "]");
+        System.out.println("[Quicksort-" + System.getProperty("project.name")+ " Benchmark Result: " + total + "]");
     }
 }

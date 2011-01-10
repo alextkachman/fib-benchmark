@@ -33,7 +33,7 @@ public class ThreadRing {
         cdl.await();
 
 	    long total = System.currentTimeMillis() - start;
-        System.out.println("[ThreadRing-Java Benchmark Result: " + total + "]");
+        System.out.println("[ThreadRing-" + System.getProperty("project.name")+ " Benchmark Result: " + total + "]");
     }
 
     public ThreadRing(int n) {

@@ -1,7 +1,7 @@
 apply plugin: 'groovy'
 apply plugin: 'idea'
 
-def sub = [':Java', ':Groovy', ':Groovypp']
+def sub = [':Java', ':Groovy', ':Groovypp', ':Groovy175']
 
 def bench = ['Fib', 'BinaryTrees', 'ThreadRing', 'SpectralNorm', 'Quicksort']
 
@@ -14,7 +14,7 @@ subprojects {
         task "$b"(type:JavaExec, dependsOn:'classes') {
             main = b
             classpath =  sourceSets.main.runtimeClasspath
-            jvmArgs = ["-server",  "-Xmx512m"]
+            jvmArgs = ["-server",  "-Xmx512m", "-Dproject.name=${project.name}"]
         }
     }
 }

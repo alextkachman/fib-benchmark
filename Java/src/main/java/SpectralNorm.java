@@ -23,7 +23,7 @@ public class SpectralNorm
         final long millis = System.currentTimeMillis();
         System.out.println (formatter.format (spectralnormGame (n)) );
 	    long total = System.currentTimeMillis() - millis;
-        System.out.println("[SpectralNorm-Java Benchmark Result: " + total + "]");
+        System.out.println("[SpectralNorm-" + System.getProperty("project.name")+ " Benchmark Result: " + total + "]");
     }
 
 

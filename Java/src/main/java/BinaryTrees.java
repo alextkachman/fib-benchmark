@@ -29,7 +29,7 @@ public class BinaryTrees {
 		System.out.println("long lived tree of depth " + maxDepth + "\t check: "+ longLivedTree.itemCheck());
 
         long total = System.currentTimeMillis() - millis;
-		System.out.println("[Binary Trees-Java Benchmark Result: " + total + "]");
+		System.out.println("[Binary Trees-" + System.getProperty("project.name")+ " Benchmark Result: " + total + "]");
 	}
 
 
