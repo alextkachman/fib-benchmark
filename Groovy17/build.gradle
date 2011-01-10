@@ -6,13 +6,13 @@ repositories {
 }
 
 dependencies {
-    groovy group: 'org.codehaus.groovy', name: 'groovy-all', version:'1.7.5'
+    groovy group: 'org.codehaus.groovy', name: 'groovy-all', version:'1.7.6'
 }
 
 sourceSets {
     main {
         groovy {
-            srcDir '../Groovy/src/main/groovy'
+            srcDir '../Groovy18/src/main/groovy'
         }
     }
 }

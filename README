@@ -1,4 +1,35 @@
-Set of benchmarks to compare same algorithms implemented by Java/Groovy/Groovy++
+Set of benchmarks to compare same algorithms implemented by Java/Groovy 1.8/Groovy 1.7/Groovy++
 
-To run execute './gradlew all' from command shell
+To run execute './gradlew -q all' from command shell
 
+Following benchmarks are implemented
+
+1) Fib
+
+Calculates 40th Fibbonachi number
+
+2) Quicksort
+
+Sorts array of 10M integers
+
+3) BinaryTrees
+
+Borrowed from Language Shootout Game.
+http://shootout.alioth.debian.org/u32/performance.php?test=binarytrees
+
+Allocates and traverse binary trees of different depth.
+
+4) SpectralNorm
+
+Borrowed from Language Shootout Game
+http://shootout.alioth.debian.org/u32/performance.php?test=spectralnorm
+
+Calculates the spectral norm of an infinite matrix A, with entries a11=1, a12=1/2, a21=1/3, a13=1/4, a22=1/5, a31=1/6
+
+5) ThreadRing
+
+Borrowed from Language Shootout Game
+http://shootout.alioth.debian.org/u32/performance.php?test=threadring
+
+Creates and keep alive 503 pre-emptive threads, linked in a ring,
+and pass a token between one thread and the next thread 5000000 times.
