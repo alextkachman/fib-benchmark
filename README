@@ -40,3 +40,10 @@ Borrowed from Language Shootout Game
 http://shootout.alioth.debian.org/u32/performance.php?test=pidigits
 
 Use the same step-by-step spigot algorithm to calculate digits of Pi
+
+7) Fannkuch
+
+Borrowed from Language Shootout Game
+http://shootout.alioth.debian.org/u32/benchmark.php?test=fannkuchredux&lang=all
+
+Generates permutations

@@ -12,7 +12,7 @@ class PiDigits {
 
 	static void main(String[] args) {
 		def start = System.currentTimeMillis()
-		def n = 2500;
+		def n = 10000;
 
 		if (args.length >= 1)
 		    n = Integer.parseInt(args[0])

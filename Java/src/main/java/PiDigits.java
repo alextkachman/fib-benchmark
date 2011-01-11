@@ -14,7 +14,7 @@ public class PiDigits {
 
 	public static void main(String args[]) {
 		long start = System.currentTimeMillis();
-		int n = 2500;
+		int n = 10000;
 
 		if (args.length > 0)
 			n = Integer.parseInt(args[0]);
