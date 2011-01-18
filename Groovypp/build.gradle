@@ -2,11 +2,13 @@ apply plugin: 'groovy'
 apply plugin: 'idea'
 
 repositories {
+    mavenRepo urls: new File("${System.getProperty('user.home')}/.m2/repository").toURL().toString()
+
     mavenRepo urls: 'http://groovypp.artifactoryonline.com/groovypp/libs-releases-local/'
 
     mavenCentral()
 }
 
 dependencies {
-    groovy group: 'org.mbte.groovypp', name: 'groovypp-all', version:'0.4.116'
+    groovy group: 'org.mbte.groovypp', name: 'groovypp-all', version:'0.4.150'
 }
