@@ -10,5 +10,11 @@ repositories {
 }
 
 dependencies {
-    groovy group: 'org.mbte.groovypp', name: 'groovypp-all', version:'0.4.150'
+    groovy group: 'org.mbte.groovypp', name: 'groovypp-all', version:'0.4.155'
+}
+
+
+task genPrimes(type:JavaExec, dependsOn:'classes') {
+    main = 'GenPrimes'
+    classpath =  sourceSets.main.runtimeClasspath
 }
