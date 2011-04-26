@@ -18,6 +18,7 @@
         <JAVADOC />
         <SOURCES>
           <root url="jar://$USER_HOME$/.gradle/cache/org.codehaus.groovy/groovy-all/sources/groovy-all-1.7.5-sources.jar!/" />
+          <root url="file://$MODULE_DIR$/../../../GroovyDev/src/main" />
         </SOURCES>
       </library>
     </orderEntry>

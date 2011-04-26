@@ -6,7 +6,7 @@ repositories {
 }
 
 dependencies {
-    groovy group: 'org.codehaus.groovy', name: 'groovy-all', version:'1.7.7'
+    groovy group: 'org.codehaus.groovy', name: 'groovy-all', version:'1.7.10'
 }
 
 sourceSets {
