@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    groovy group: 'org.mbte.groovypp', name: 'groovypp-all', version:'0.4.225_1.8.0-rc-4'
+    groovy group: 'org.mbte.groovypp', name: 'groovypp', version:'0.9.0_1.8.2'
 }
 
 sourceSets {

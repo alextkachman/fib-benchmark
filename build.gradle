@@ -1,7 +1,7 @@
 apply plugin: 'groovy'
 apply plugin: 'idea'
 
-def sub = [':Java', ':Groovy18', ':Groovypp17', ':Groovypp18', ':Groovy17']
+def sub = [':Groovypp18', ':Groovypp17', ':Groovy18', ':Groovy17', ':Java']
 
 def bench = ['Fib', 'BinaryTrees', 'ThreadRing', 'SpectralNorm', 'Quicksort', 'PiDigits', 'Fannkuch', 'Fasta', 'Nbody', "LockPerf"]
 

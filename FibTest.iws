@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd7943b1-3cad-4cec-8492-fd662136082c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Groovy17/Groovy17.iml" afterPath="$PROJECT_DIR$/Groovy17/Groovy17.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FibTest.iws" afterPath="$PROJECT_DIR$/FibTest.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Groovy18/build.gradle" afterPath="$PROJECT_DIR$/Groovy18/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Groovypp17/build.gradle" afterPath="$PROJECT_DIR$/Groovypp17/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Groovypp18/build.gradle" afterPath="$PROJECT_DIR$/Groovypp18/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fib-benchmark.ipr" afterPath="$PROJECT_DIR$/fib-benchmark.ipr" />
     </list>
     <ignored path="FibTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,46 +69,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="45" selection-start="559" selection-end="559" vertical-scroll-proportion="0.47226387">
+            <state line="33" column="51" selection-start="745" selection-end="745" vertical-scroll-proportion="-19.8">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LockPerf.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Groovy18/src/main/groovy/LockPerf.groovy">
+      <file leaf-file-name="Fasta.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/src/main/java/Fasta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="26" selection-start="1797" selection-end="1797" vertical-scroll-proportion="0.0">
+            <state line="138" column="66" selection-start="4813" selection-end="4813" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadRing.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/src/main/java/ThreadRing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="133" column="73" selection-start="4177" selection-end="4177" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PiDigits.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/src/main/java/PiDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="137" column="0" selection-start="3089" selection-end="3089" vertical-scroll-proportion="1.3297414">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Fib.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/src/main/java/Fib.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Groovy18/build.gradle">
+        <entry file="file://$PROJECT_DIR$/Groovypp17/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="82" selection-start="179" selection-end="179" vertical-scroll-proportion="-4.8">
+            <state line="20" column="107" selection-start="506" selection-end="506" vertical-scroll-proportion="-12.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/build.gradle">
+        <entry file="file://$PROJECT_DIR$/Groovypp18/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="27" column="82" selection-start="617" selection-end="617" vertical-scroll-proportion="-16.2">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LockPerf.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Groovypp/src/main/groovy/LockPerf.groovy">
+      <file leaf-file-name="Fannkuch.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Groovy18/src/main/groovy/Fannkuch.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="7" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0">
+            <state line="67" column="88" selection-start="1813" selection-end="1813" vertical-scroll-proportion="-0.6">
               <folding />
             </state>
           </provider>
@@ -118,37 +150,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultGroovyMethods.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../GroovyDev/src/main/org/codehaus/groovy/runtime/DefaultGroovyMethods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2539" column="0" selection-start="98305" selection-end="98305" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="50" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Groovy17/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="75" selection-start="172" selection-end="172" vertical-scroll-proportion="-4.8">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Groovypp/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="-10.8">
+            <state line="8" column="75" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -169,22 +174,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/README" />
-        <option value="$PROJECT_DIR$/Groovy18/src/main/groovy/Nbody.groovy" />
         <option value="$PROJECT_DIR$/Groovypp/src/main/groovy/Nbody.groovy" />
         <option value="$PROJECT_DIR$/Java/src/main/java/Nbody.java" />
         <option value="$USER_HOME$/.gradle/cache/org.codehaus.groovy/groovy-all/jars/groovy-all-1.8.0-beta-3.jar!/groovy/xml/MarkupBuilder.class" />
         <option value="$PROJECT_DIR$/Groovy17/src/main/groovy/GenPrimes.groovy" />
         <option value="$PROJECT_DIR$/Groovypp/src/main/groovy/GenPrimes.groovy" />
         <option value="$PROJECT_DIR$/Groovypp/primes" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/Groovypp/build.gradle" />
         <option value="$PROJECT_DIR$/Groovy17/build.gradle" />
-        <option value="$PROJECT_DIR$/Groovy18/build.gradle" />
         <option value="$PROJECT_DIR$/Groovypp/src/main/groovy/LockPerf.groovy" />
         <option value="$PROJECT_DIR$/Java/src/main/java/LockPerf.java" />
         <option value="$PROJECT_DIR$/Groovy18/src/main/groovy/LockPerf.groovy" />
         <option value="$PROJECT_DIR$/../../GroovyDev/src/main/org/codehaus/groovy/runtime/DefaultGroovyMethods.java" />
+        <option value="$PROJECT_DIR$/Groovypp17/build.gradle" />
+        <option value="$PROJECT_DIR$/Groovy18/build.gradle" />
+        <option value="$PROJECT_DIR$/Groovypp18/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -223,7 +228,6 @@
     <panes>
       <pane id="Favorites" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -270,7 +274,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Groovypp" />
+              <option name="myItemId" value="Groovypp18" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FibTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fib-benchmark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Groovypp17" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,12 +316,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Groovy18" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FibTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fib-benchmark" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Groovy17" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,6 +392,7 @@
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" adl_options="" air_descriptor_path="" air_program_params="" air_publisher_id="" air_root_dir_path="" air_run_mode="AppDescriptor" browser_family="FIREFOX" class_name="" debugger_sdk="Module SDK" html_or_swf_file_path="" launcher_type="OSDefault" main_class_name="" method_name="" module_name="" output_log_level="" package_name="" player_path="/Applications/Flash Player.app/Contents/MacOS/Flash Player" port="0" run_mode="HtmlOrSwfFile" run_trusted="false" scope="Class" socket_policy_port="0" url_to_launch="http://">
@@ -355,6 +401,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -373,6 +420,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -394,6 +442,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -421,6 +470,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
     <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy Script">
@@ -435,6 +485,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="PhingTarget" enabled="false" />
       </method>
     </configuration>
     <configuration default="false" name="Fib" type="Application" factoryName="Application">
@@ -479,6 +530,8 @@
   <component name="SvnConfiguration" maxAnnotateRevisions="500">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
     <option name="LAST_MERGED_REVISION" />
     <option name="MERGE_DRY_RUN" value="false" />
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
@@ -502,16 +555,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32228118" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32142857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Phing Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23292595" sideWeight="0.6777188" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23292595" sideWeight="0.6785714" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41777188" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -519,14 +573,23 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
     <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
     <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
@@ -538,6 +601,7 @@
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="LockPerf benchmark" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
@@ -577,31 +641,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/src/main/java/Nbody.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="57" selection-start="4589" selection-end="4589" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shootout/mandelbrot/Mandelbrot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="69" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Groovypp/src/main/groovy/GenPrimes.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="90" selection-start="425" selection-end="425" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Groovypp/primes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9963" column="105" selection-start="185667" selection-end="185667" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Groovypp/src/main/groovy/Nbody.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Groovy18/src/main/groovy/Nbody.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="108" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" />
@@ -612,61 +651,92 @@
         <state line="53" column="26" selection-start="1797" selection-end="1797" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Groovypp/src/main/groovy/LockPerf.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/src/main/java/LockPerf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../GroovyDev/src/main/org/codehaus/groovy/runtime/DefaultGroovyMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2539" column="0" selection-start="98305" selection-end="98305" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="50" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Groovy17/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="75" selection-start="172" selection-end="172" vertical-scroll-proportion="-4.8">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Groovy18/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="82" selection-start="179" selection-end="179" vertical-scroll-proportion="-4.8">
+        <state line="10" column="94" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../GroovyDev/src/main/org/codehaus/groovy/runtime/DefaultGroovyMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2539" column="0" selection-start="99035" selection-end="99035" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="50" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Groovy17/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="75" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Groovy18/src/main/groovy/Fannkuch.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="88" selection-start="1813" selection-end="1813" vertical-scroll-proportion="-0.6">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Groovypp/build.gradle">
+    <entry file="file://$PROJECT_DIR$/Groovypp18/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="449" selection-end="449" vertical-scroll-proportion="-10.8">
+        <state line="27" column="82" selection-start="617" selection-end="617" vertical-scroll-proportion="-16.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Groovypp17/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="107" selection-start="506" selection-end="506" vertical-scroll-proportion="-12.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/main/java/LockPerf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="769" selection-end="769" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/main/java/Fib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="45" selection-start="559" selection-end="559" vertical-scroll-proportion="0.47226387">
+        <state line="33" column="51" selection-start="745" selection-end="745" vertical-scroll-proportion="-19.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/main/java/Fasta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="66" selection-start="4813" selection-end="4813" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/main/java/ThreadRing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="73" selection-start="4177" selection-end="4177" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/main/java/PiDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="0" selection-start="3089" selection-end="3089" vertical-scroll-proportion="1.3297414">
           <folding />
         </state>
       </provider>
